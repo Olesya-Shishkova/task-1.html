@@ -12,9 +12,9 @@
 
  <h2 p align = "center"> <font face = "Arial" color = "green"> Заголовок 2 </font></p></h2>
  <ol>
- <li><a href = "Тойвонен_задание_1.html">Первый html-документ.</a> </li>
- <li><a href = "Тойвонен_задание_2.html">Второй html-документ.</a></li>
- <li><a href = "Тойвонен_задание_3.html">Третий html-документ.</a></li>
+ <li><a href = "Шишкова_задание_1.html">Первый html-документ.</a> </li>
+ <li><a href = "Шишкова_задание_2.html">Второй html-документ.</a></li>
+ <li><a href = "Шишкова_задание_3.html">Третий html-документ.</a></li>
  </ol>
 
  <h3 p align = "center"> <font face = "Arial" color = "blue"> Заголовок 3 </font></p></h3>
